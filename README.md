@@ -11,7 +11,7 @@
 
 I investigate threats, connect scattered evidence, and turn findings into structured intelligence that people can actually use. My interests sit where cyber threat intelligence, OSINT, reverse engineering, and low-level engineering meet.
 
-I enjoy understanding how systems behave beneath the surface—whether that means following an adversary's infrastructure, examining a binary in IDA Pro, modeling intelligence as STIX 2.1, or building focused tools in Go, Rust, C, C++, and assembly.
+I enjoy understanding how systems behave beneath the surface, whether that means following an adversary's infrastructure, examining a binary in IDA Pro, modeling intelligence as STIX 2.1, or building focused tools in Go, Rust, C, C++, and assembly.
 
 ## What I build
 

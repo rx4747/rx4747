@@ -48,9 +48,26 @@ I enjoy understanding how systems behave beneath the surface—whether that mean
 ## GitHub at a glance
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rx4747&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="rx4747 GitHub statistics">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rx4747&layout=compact&hide_border=true&theme=transparent" alt="Most used languages across public repositories">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rx4747&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rx4747&theme=github">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rx4747&theme=github" alt="rx4747 GitHub activity overview">
+  </picture>
 </p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rx4747&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rx4747&theme=github">
+    <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rx4747&theme=github" alt="rx4747 GitHub statistics">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rx4747&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rx4747&theme=github">
+    <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rx4747&theme=github" alt="Most used languages across public repositories">
+  </picture>
+</p>
+
 
 <p align="center">
   <i>Evidence first. Context always. Build tools that make the next investigation better.</i>

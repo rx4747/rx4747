@@ -1,7 +1,7 @@
 <h1 align="center">rx4747</h1>
 
 <p align="center">
-  Cyber Threat Intelligence Analyst · OSINT · Reverse Engineering · Systems Programming
+  Cyber Threat Intelligence Analyst · Threat Research · Malware Analysis · Reverse Engineering
 </p>
 
 <p align="center">
@@ -9,23 +9,29 @@
   <a href="https://community.obsidian.md/plugins/cti-stix-workbench"><img src="https://img.shields.io/badge/Obsidian-CTI%20STIX%20Workbench-7c3aed?style=flat-square&logo=obsidian&logoColor=white" alt="CTI STIX Workbench on the Obsidian Community site"></a>
 </p>
 
-I investigate threats, connect scattered evidence, and turn findings into structured intelligence that people can actually use. My interests sit where cyber threat intelligence, OSINT, reverse engineering, and low-level engineering meet.
+I am a cyber threat intelligence analyst focused on tracking adversaries,
+infrastructure, malware, and campaigns. I turn fragmented technical evidence
+into clear intelligence that supports investigations and defensive decisions.
 
-I enjoy understanding how systems behave beneath the surface, whether that means following an adversary's infrastructure, examining a binary in IDA Pro, modeling intelligence as STIX 2.1, or building focused tools in Go, Rust, C, C++, and assembly.
+My work combines threat research, infrastructure analysis, malware triage,
+reverse engineering, and intelligence tooling. I care about strong evidence,
+careful attribution, honest confidence assessments, and intelligence that is
+useful rather than merely interesting.
 
 ## What I build
 
-- [CTI STIX Workbench](https://github.com/rx4747/cti-stix-workbench) — a local-first Obsidian plugin for authoring, validating, investigating, and exporting STIX 2.1 threat intelligence.
-- [CTI Investigation Vault](https://github.com/rx4747/cti-investigation-vault) — a clean Obsidian vault template for structured CTI investigations and STIX 2.1 workflows.
+- [CTI STIX Workbench](https://github.com/rx4747/cti-stix-workbench) — a local-first Obsidian plugin for authoring, validating, visualizing, and sharing structured threat intelligence.
+- [CTI Investigation Vault](https://github.com/rx4747/cti-investigation-vault) — a clean Obsidian workspace for structured CTI investigations and repeatable analyst workflows.
 - Security and developer tooling centered on practical analysis, automation, and reproducible workflows.
 
 ## Toolbox
 
-**Intelligence and analysis**
+**Threat intelligence and analysis**
 
 ![Cyber Threat Intelligence](https://img.shields.io/badge/Cyber%20Threat%20Intelligence-111827?style=for-the-badge&logo=target&logoColor=white)
-![OSINT](https://img.shields.io/badge/OSINT-1f2937?style=for-the-badge&logo=opensearch&logoColor=white)
-![STIX 2.1](https://img.shields.io/badge/STIX%202.1-334155?style=for-the-badge&logo=json&logoColor=white)
+![Threat Research](https://img.shields.io/badge/Threat%20Research-1f2937?style=for-the-badge&logo=opensearch&logoColor=white)
+![Infrastructure Analysis](https://img.shields.io/badge/Infrastructure%20Analysis-334155?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-172033?style=for-the-badge&logo=virustotal&logoColor=white)
 ![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-0f172a?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![IDA Pro](https://img.shields.io/badge/IDA%20Pro-111820?style=for-the-badge&logoColor=white)
 
